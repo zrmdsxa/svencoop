@@ -1,0 +1,17 @@
+maps/sprt_starwars_b2.bsp
+maps/sprt_starwars_b2.res
+maps/sprt_starwars_b2.gmr
+maps/sprt_starwars.gsr
+maps/sprt_starwars.gmr
+maps/sprt_starwars.cfg
+maps/sprt_starwars_b2_motd.txt
+models/sprt_swars/v_9mmhandgun.mdl
+models/sprt_swars/vep_noshit.mdl
+models/player/sprt_tiefighter/sprt_tiefighter.mdl
+models/player/sprt_tiefighter/sprt_tiefighter.bmp
+models/player/sprt_xwing/sprt_xwing.bmp
+models/player/sprt_xwing/sprt_xwing.mdl
+sound/sprt_swars/grenade1.wav
+sound/sprt_swars/saveme1.wav
+sound/sprt_swars/pl_gun3.wav
+sound/sprt_swars/sprt_tie_loop.ogg
