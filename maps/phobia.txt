@@ -1,0 +1,88 @@
+================================================================================
+* HALF-LIFE LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : Phobia
+FILENAME                : sc_phobia.zip
+AUTHOR                  : Richard (Crash) Cheng
+DATE                    : March 3, 2000
+TYPE                    : Co-Operative (SvenCoop)
+EMAIL ADDRESS           : crashdummy0@iname.com
+.zip CONTENTS           : phobia.bsp
+                          phobia.cfg
+                          phobia.txt
+
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+My second released map. This level takes place on Xen. Near the beginning area,
+there are 5 yellow crystals that must be destroyed before you can move on. You
+will need the Long Jump module on the lowest platform to reach the platform with
+the bounce pad. Using the bounce pad you will be able to reach the highest
+platform where the biggest crystal resides, the others are within easy reach.
+*HINT* You will need to long jump right before you hit the bounce pad to be able
+       to make it onto the high platform.
+
+--------------------------------------------------------------------------------
+SINGLE PLAYER           : 1 Player Start   Point(s)
+CO-OPERATIVE            : 4 Player Respawn Point(s)
+DEATHMATCH              : 4 Player Respawn Point(s)
+SUGGESTED PLAYER LOAD   : 3 to 6
+
+DIFFICULTY SETTINGS     : N/A
+NEW TEXTURES            : No
+NEW SOUNDS              : No
+CD TRACK #              : 0
+
+
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+MAP BASE                : New Map
+BUILD TIME		: A month
+PREFABS USED            : None
+EDITOR(S) USED          : Worldcraft 2.1
+OTHER UTILITIES USED    : None
+
+KNOWN BUGS              : None known.
+			  E-mail me if you find any (crashdummy0@iname.com)
+
+
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY THE AUTHOR *
+--------------------------------------------------------------------------------
+: Mastamike for SvenCoop
+
+
+--------------------------------------------------------------------------------
+* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *
+--------------------------------------------------------------------------------
+Unzip phobia.zip into your Half-Life directory.
+
+
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+Valve Software          		: For making a KICK ASS game
+SvenCoop team           		: For making a great MOD
+Sven Viking				: For helping me figure out some things
+GameDesign forum			: For answering my questions
+ERC, Wavelength, 69th vlatitude, etc	: For their great tutorials
+Keen					: For giving me suggestions and helping
+
+
+================================================================================
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.
+
+[END OF DATA]==========================================================[.txtGen]

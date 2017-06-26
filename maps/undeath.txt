@@ -1,0 +1,52 @@
+UnDeath
+
+=========================================================
+Title			: UnDeath
+Filename		: undeath.bsp
+Game			: Sven Co-op Half-Life
+Author			: DeathBog
+Email Address		: deathbawg@hotmail.com
+Web Address		: not available
+special thanks to	: Valve - For making an incredible game
+                          SvenCoop-Team - For making a great mod
+                  
+                             
+=========================================================
+* Info *
+
+Single Player		: yes
+Cooperative		: yes best with 2-6 players
+New Sounds		: yes
+New Graphics		: no
+New Sky			: no
+
+=========================================================
+
+* Construction *
+
+The Map			: UnDeath
+Editor(s)		: Worldcraft 3.3
+Known Bugs		: Every so often, the player may get stusk inside the ceiling fan on 				spawn. Sorry..
+                           
+                           
+Compile Time(Approximate): 3 hours
+                          
+                             
+Compile Machine		: AMD 400 MHz  148 MB RAM
+R_speeds                : Map r_speed is relatively good. 
+       		  
+=========================================================
+
+*installation*
+
+unzip undeath.zip to your half-life directory (usually sierra/half-life/)
+
+=========================================================
+=========================================================
+*description*
+
+You are a member of a masquerade party gone awry.
+
+=========================================================
+=========================================================
+Hints:

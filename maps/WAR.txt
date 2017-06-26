@@ -1,0 +1,95 @@
+First of all: This level isn´t very big by now...but this will change.
+              This is an alpha version of "War" and I´m still working on it...
+              
+
+
+
+================================================================================
+* HALF-LIFE LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : War 
+FILENAME                : WAR.zip
+AUTHOR                  : André Runge
+DATE                    : 28.03.2000
+TYPE                    : Sven Coop map
+EMAIL ADDRESS           : AndreRunge@t-online.de
+.zip CONTENTS           : WAR.bsp
+                          WAR.cfg
+                          WAR.txt
+
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+SINGLE PLAYER           : 1 Player Start   Point(s)
+CO-OPERATIVE            : 3 Player Start   Point(s)
+DEATHMATCH              : 3 Player Respawn Point(s)
+SUGGESTED PLAYER LOAD   : 2 to 5
+
+DIFFICULTY SETTINGS     : N/A
+NEW TEXTURES            : No
+NEW SOUNDS              : No
+CD TRACK #              : 0
+
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+MAP BASE                : New Map
+EDITOR(S) USED          : Worldcraft 2.1
+OTHER UTILITIES USED    : None
+
+KNOWN BUGS              : haven´t noticed any bugs, but mail me if you find any...
+			  AndreRunge@t-online.de
+
+COMPILE MACHINE         : P2-400Mhz  128 RAM
+
+QCSG  TIME              :  29 seconds
+QBSP2 TIME              :  15 seconds
+VIS TIME                :  35 seconds
+QRAD TIME               :  56 seconds
+
+TOTAL TIME		: 190 seconds (3 minutes 10 seconds)
+
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY THE AUTHOR *
+--------------------------------------------------------------------------------
+None yet.  WAR2 most likely ;)
+--------------------------------------------------------------------------------
+* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *
+--------------------------------------------------------------------------------
+Unzip War.zip to your Half-Life folder.
+
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+Valve Software          : For making a KICK ASS game
+Sven Coop Team		: For making a great MOD
+Freddy Kruger           : For making the bench
+"Unknown"               : For making the Bboard
+Yak_Fighter             : For making the streetlight
+                          For making the cargotruck
+                          For making the dumps
+Revolver                : For making the container
+                          For making the PC
+BlackRose               : For making the Irisdoor
+Carsten Schwartz        : For making the Rstairs 
+Manoj "Yumpee" Plakal   : For making the hlstairs
+
+================================================================================
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.
+
+[END OF DATA]==========================================================[.txtGen]

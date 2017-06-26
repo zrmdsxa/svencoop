@@ -1,0 +1,38 @@
+Hi all...
+
+
+First of all i have to tell you that you won´t find the spy 
+in War3...the reasons are that school was stressing me out in the
+last time...so there was not much time for me making the map or 
+studying help guides from the internet...
+nevertheless i hope that you all like the map :)
+
+I can promise this: War4 will definitly be the last War and you´ll get
+the chance to kick the spy´s ass ;)
+
+Title			: War3
+Filename		: War3.bsp
+Game			: Sven Co-op Half-Life
+Author			: André 
+Email Address		: jakejeckel83@hotmail.com 
+Web Address		: not available
+
+---------------------------------------------
+---------------------------------------------
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.
+
+[END OF DATA]==========================================================[.txtGen]

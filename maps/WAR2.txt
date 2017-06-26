@@ -1,0 +1,73 @@
+War2 - Deadly Combat
+
+=========================================================
+Title			: War2 - Deadly Combat
+Filename		: War2.bsp
+Game			: Sven Co-op Half-Life
+Author			: André
+Email Address		: AndreRunge@t-online.de
+Web Address		: not available
+special thanks to	: Valve - For making an incredible game
+                          SvenCoop-Team - For making a great mod
+                          Adam Grebinsky [ShadowByte] - For making the F-16
+                          Maniac - For making the genswitch
+                          and to all the other guys who helped me...
+=========================================================
+* Info *
+
+Single Player		: no
+Cooperative		: 6 player max
+New Sounds		: no
+New Graphics		: no
+New Sky			: no
+
+=========================================================
+
+* Construction *
+
+The Map			: War2 - Deadly Combat
+Editor(s)		: Worldcraft 2.1
+Known Bugs		: Haven´t noticed any bugs...mail me if you find any
+Build Time		: 2.5 weeks
+Build Machine		: PII 400 MHz  128 RAM
+R_speeds                : Map r_speed is relatively good. Sometimes it raises, though.
+       		  
+=========================================================
+
+*installation*
+
+unzip War2.zip to your half-life directory (usually sierra/half-life/)
+
+=========================================================
+=========================================================
+*description*
+
+Los Alamos, New Mexico
+Enemy Research Facility
+
+You are part of a team of soldiers send to an enemy research facility to kill a spy, who has stolen 
+important informations. After you have fought your way through the facility in ´War1´, you walked into 
+a trap and now you are in the sewerage system. While the aliens try to gain control of the facility you 
+have to fight your way through the chaos of war to fulfill your job and to safe your lives...
+The aliens also want to get the informations. Try to prevent this and get the informations before the
+aliens do it...Failure is unacceptable...
+
+
+=========================================================
+=========================================================
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Half-Life (C) 1998-99 Sierra On-line and Valve L.L.C. All rights reserved.
+
+[END OF DATA]==========================================================[.txtGen]

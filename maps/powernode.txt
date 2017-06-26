@@ -1,0 +1,33 @@
+
+
+           Power Node Complex Infiltration
+
+               Made by c00leyo (cooleyo_2002@hotmail.com)
+
+
+Installation information:
+Put all .cfg's, .txt's and .bsp's in your svencoop/maps
+Put all .nrp's and .nod's in your svencoop/maps/graphs
+
+Story:
+
+  You are the IBR infiltration team, sent on a covert operation to destroy
+illegal contreband weaponry located within the Powernode complex.
+
+Every and any one is to be treated as a threath, no matter the circumstances.
+(Apart from your team mates!)
+
+You will have a set of objectives described at the beginning of each of the
+operation chapters. You may use the weaponry provided plus anything you find within
+the facility.
+
+Good luck!
+
+
+-----------------------------
+This project took me almost all of summer 2001 to create, i hope you enjoy!
+-----------------------------
+
+Many thanks to Seraphim and Basic_Beecicchi for their support!
+
+
