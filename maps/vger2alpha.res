@@ -1,0 +1,15 @@
+vger.wad
+maps/vger2alpha_readme.txt
+maps/vger2alpha.bsp
+maps/vger2alpha_motd.txt
+maps/vger2alpha.cfg
+sound/vger/all.wav
+sound/vger/personnel.wav
+models/vger/gvrobo.mdl
+models/vger/gvroboT.mdl
+models/vger/pvrobo.mdl
+models/vger/pvroboT.mdl
+models/vger/rvrobo.mdl
+models/vger/rvroboT.mdl
+models/vger/vgergrunt.mdl
+models/vger/vgergruntT.mdl
