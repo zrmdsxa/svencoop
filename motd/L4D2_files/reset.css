@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Calibri,Arial;
+	font-weight: bold;
+	color: #FFFFFF;
+	/*border:1px solid #FFFFFF;*/
+
+}
+
+body {
+	background-color: #00CCFF;
+}
+
+
+
+#wrapmusic {
+	margin:0 auto;
+	padding-top: 100px;
+	text-align: center;
+}
+#wrapmusic h1{
+	display: inline-block;
+}
+
+.shake1 {
+	animation-name: shake1;
+	animation-iteration-count: infinite;
+	animation-duration: 1s;
+}
+
+.shake2 {
+	animation-name: shake2;
+	animation-iteration-count: infinite;
+	animation-duration: 1s;
+
+}
+
+canvas {
+	display: none;
+}
+
+#fc2_footer {
+ display:none;
+}
+
+
+@keyframes shake1{
+	0% { transform: translate(2px, 1px) rotate(0deg); }
+	10% { transform: translate(-1px, -2px) rotate(-1deg); }
+	20% { transform: translate(-3px, 0px) rotate(1deg); }
+	30% { transform: translate(0px, 2px) rotate(0deg); }
+	40% { transform: translate(1px, -1px) rotate(1deg); }
+	50% { transform: translate(-1px, 2px) rotate(-1deg); }
+	60% { transform: translate(-3px, 1px) rotate(0deg); }
+	70% { transform: translate(2px, 1px) rotate(-1deg); }
+	80% { transform: translate(-1px, -1px) rotate(1deg); }
+	90% { transform: translate(2px, 2px) rotate(0deg); }
+	100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+@keyframes shake2{
+	0% { transform: translate(1px, -2px) rotate(-1deg); }
+	10% { transform: translate(2px, 2px) rotate(0deg); }
+	20% { transform: translate(-1px, -1px) rotate(1deg); }
+	30% { transform: translate(2px, 1px) rotate(-1deg); }
+	40% { transform: translate(-3px, 1px) rotate(0deg); }
+	50% { transform: translate(-1px, 2px) rotate(-1deg); }
+	60% { transform: translate(-1px, 2px) rotate(-1deg); }
+	70% { transform: translate(1px, -1px) rotate(1deg); }
+	80% { transform: translate(-3px, 0px) rotate(1deg); }
+	90% { transform: translate(-1px, -2px) rotate(-1deg); }
+	100% { transform: translate(2px, 1px) rotate(0deg); }
+}
