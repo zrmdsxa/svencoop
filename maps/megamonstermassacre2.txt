@@ -1,0 +1,18 @@
+Title: Mega Monster Massacre 2
+Author: RJ (rj8722@hotmail.com)
+Type of map: Sven Coop
+Amount of Players: 2 - 8
+------------------------------------
+New textures: No
+New models: No (can't make them and there isn't any ones I wanted out there)
+New sky: No (I thought hplanet's sky was good enough :))
+New stuff: No (can't draw, can't do anything graphic-related, I can only map :))
+------------------------------------
+Bugs: None that I know of, email me if you find one.
+Compile Time: Who cares
+Compile Machine: 1.04 GHz Athlon AMD, 256 mb of ram
+------------------------------------
+Extra info: I worked really hard on this map. Suffered from mapper's
+block a lot. I also suffered from a lot of frustration on certain
+parts of the map where it took me like a hour to find a workaround
+for it :(. Anyways, I'm proud of my end result :).
