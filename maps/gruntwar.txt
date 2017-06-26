@@ -1,0 +1,53 @@
+********************************************************************************************
+Map Information
+
+Title		:  Gruntwar
+Author		:  Ike_Brovlofski
+Email Address	:  ike_brovlofski@yahoo.com
+Filename	:  gruntwar.bsp
+Filesize	:  1872kB
+Date		:  11th of October 2001
+Description	:  You must destroy the enemy's main computer and kill all the opposing forces
+Other work      :  I have no other svencoop maps (yet)
+Notes           :  U can destroy the big wall where some enemy grunts stand on
+
+********************************************************************************************
+Player Information
+
+Single Player		:  No
+Deathmatch		:  please dont
+Cooperative             :  Yes
+Difficulty Setting 	:  3
+Map Type                :  Assault-Type
+New Textures		:  No
+New Sounds		:  Nope
+Players			:  Minimum of 2
+
+********************************************************************************************
+Construction
+
+Base		:  gruntwar.bsp
+Editor Used	:  Worldcraft 3
+Build Time	:  I dunno
+Known bugs	:  None that I know of.
+Compile Machine	:  AMD Thunderbird 1,2 Ghz 256 MB ram
+Compile Time    :  CSG: 17.85 seconds
+                   BSP: 5.66 seconds
+                   VIS: 153.90 seconds
+                   RAD: 407.22 seconds
+
+********************************************************************************************
+Special Thanks
+	
+	Special thanks to Hawk - santegoeds@home.nl   For his support and ideas
+                          Nemesis6 - facehugger@planetavp.com   For being my official beta tester and giving me lots of ideas
+                          Friendly Garg - entenie@soneramail.nl   For testing my map and his support
+                          BasicBeecichi - BasicBeecicchi@hotmail.com   For testing my map and his support
+                          
+                          
+
+********************************************************************************************
+
+- Ike_Brovlofski
+
+- http://www.basicbee.com/ike

@@ -1,0 +1,49 @@
+================================================================
+Title			: Apache Battle 3 for Sven Co-op
+Author			: Mad Jonesy (British Lad)
+Date			: 12/9/99
+Filename			: Helebat2.bsp
+Email Address		: madjonesy@Svencoop.com
+Description	: Fight and kill the Apache numerous times. This map features a large and 		impressive canyon also, which makes the hunting all that more difficult. 
+Also, a rocket turret is featured, think of this, as a quick killer, 2 or 3 rockets should take it down with ease.
+Note: This map, unlike the Helebat 1, supports helicopter respawning that actually works.
+================================================================
+*Play Information*
+
+Co-op style		: Arena type map
+Single Player		: Yes
+Deathmatch		: Don't bother
+Cooperative		: Of course
+Difficulty Settings	: Hard, of course.
+New textures		: No Chance
+New sounds		: "       "
+Running the level	: Extract the file to your Half-Life directory
+Players			: 3 - 6 recommended, less than that will result in you becoming quick Apache chow
+
+*Construction*
+
+Base			: New level
+Editor used		: Worldcraft 2.0
+Build time		: Many hours of my miserable life.
+Known bugs		: None, apart from the difficult nature of the Apache re-spawn may not make it re-spawn at all, not all that common though
+Compile machine		: Cyrix 333 with 128 MB Ram. 
+================================================================
+
+Hints:
+
+- The glass wall in the equipment room, can be shot through slightly by the Apache, but will not break, anyone say 'distraction'? But make sure you stand back a bit.
+- Don't look up while shooting and chasing the Apache near the canyon.
+- Hmm, this strategy requires at least two people, and three to be safe, the marines in the tunnel re-spawn facing the same direction, if they could be killed, someone could sit in the tunnel behind them with a shotgun waiting for them to re-spawn. That's one problem solved.
+- Those areas where I have 'forgot' to put a ladder (i.e. in the hidden basement bunker) require 2 players, if you haven't worked this out yet, there is little hope. One player needs to crouch and the other jumps on his head. The first player stands up, and the other should be able to jump up and grab the goodies, which trust me, help a lot in this map.
+- When in doubt, hide.
+
+================================================================
+
+Thanx to...  
+
+Anyone who play-tested this map in-between 21st and 23rd of February, in particular, to [KOS]_bh_MIKE and his dodgy config file.
+Sven Viking for trying to look interested when I sent him 300kb of Screenshots
+Everyone else on the co-op crisis team to discuss things with.
+
+Any comments or criticisms welcomed, but I may or may not get heavily defensive, be warned.
+

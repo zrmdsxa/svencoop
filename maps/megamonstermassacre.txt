@@ -1,0 +1,38 @@
+Title: Mega Monster Massacre:
+	A map for SvenCoop 
+
+Author: DeathBog (deathbawg@hotmail.com)
+
+Type of Map: Coop 
+
+Recommended players: 2-8
+
+=------------------------------------------=
+* Construction *
+
+Editor(s)		: Worldcraft 3.3, PakScape, Walley, 
+			PaintShop Pro, Half-Life Compilation Controller,
+			HL Model Viewer, MilkShape 
+
+New textures: yes
+New sky:      no
+New sounds:   No
+New models:   yes
+
+Known Bugs		 : Spaceship might do some weird things while in flight
+Compile Time(Approximate):  15 minutes
+
+Compile Machine		: AMD Duron 900 MHz  128 MB DDR RAM
+
+R_speeds                : Map frame rate can drop in the large areas. To remedy this, simply 	                  upgrade your computer
+       		  
+=========================================================
+
+Description: 
+	You have been programmed for one reason and one reason alone, to massacre all the Mega Monsters that oppose you and fly into space! The factory assembly line will reconstruct you when you are destroyed. Different monsters' life forces are attached to Runes along the way.
+
+=========================================================
+Notes: 
+This map has an all new set of super-powered monsters. You have new weaponry, so get in there and kill something!
+
+All textures and models included with the map are open-source; feel free to use them in your own maps!

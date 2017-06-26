@@ -1,0 +1,12 @@
+G-Man Towers
+=========
+
+You are a member of a secret organization of Black Mesa Civilians who, during the Black Mesa catastrophe, teamed up against the incoming aliens (and military) in a bid to escape the facility, and, to an extent, have succeeded. 
+
+It is now two weeks after your escape and you and your team have been called upon by the Administrator in order to discuss the prospect of a strategic alliance. You are now about to enter the Administrators office, where he is to discuss your fate...
+
+(Please refer to gmantowers_readme.txt for the full version, curse that 750 character limit!) 
+
+=========
+Map by DAN200
+DAN200__@Hotmail.com

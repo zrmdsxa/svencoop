@@ -1,0 +1,61 @@
+=------------------------------------------=
+
+Title: Horde
+	A map for SvenCoop (http://come.to/half-life)
+
+Author: Craig Londale (crazyjulio@hotmail.com)
+
+Type of Map: Coop (although it works in DM or SP)
+
+Recommended players: 2-4
+
+Playing Tips:   -DO NOT, I repeat, DO NOT EVER try to go on the offensive, or
+                the aliens will swarm all over you. The alien armies are
+                unimaginably huge, and even thought they might be holding
+                back now, if you rush in blindly you become a threat- and
+                the aliens are fully prepared to deal with threats.
+
+		-Regardless of how inviting that sickly, toxic green-brown
+		water looks, resist the urge to take a swim.
+	
+		-Although this map starts out easy, it will continue to become
+		more and more difficult the longer you play. It's recommended that
+		servers running this map reset the level every 10-30 minutes (either
+		manually using the 'restart' command, or by setting mp_timelimit.) 
+		After 30 minutes... good luck.
+
+		-Be very careful when playing solo. Once you're overrun,
+                it can be very hard- even impossible- to recover.
+
+		-Don't take anything for granted. Just because you loaded
+                the map up and played for a minute doesn't mean you can
+                predict everything that will happen.
+
+		-Try to predict everything that happens. There's no
+                randomness involved in when events are triggered, so you can
+                have a general idea of what comes next once you've played
+                through a few times.
+
+=------------------------------------------=
+
+
+2:00 PM- Black Mesa Research Facility, Waste Treatment Plant, Sector 7B. 
+
+2 days ago, Gordon Freeman left on a quest to destroy Nihilanth and stop the
+alien onslaught.
+
+He never returned.
+
+
+
+You've been on the run for the past 36 hours. Aliens- countless numbers of
+them- are pouring into Black Mesa, attacking with a fanatical devotion never
+seen. The military has been frantically evacuating all troops possible to
+form a defensive line outside the research facility to quarantine the aliens.
+All outside access has been locked down. You're up between a rock and a hard
+place- the alien swarm is closing in, and you're at a dead end with your only
+exit sealed off. You and your comrades have dug in and barricaded the doors,
+but who knows how long your makeshift barriers will last before the aliens
+pound through? You'll never survive...
+
+... but it'll be one helluva ride trying.

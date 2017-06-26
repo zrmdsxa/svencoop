@@ -1,0 +1,39 @@
+NIGHTMARE RELEASE: 8/5/2000
+==============================================
+Title                           : Nightmare
+Filename                  : nightmare-s/c1.bsp + nightmare-s/c2.bsp
+Game                        : SvenCoop Half-Life
+Author                       : [BaG]Hawk (Heiko)
+Email Adress           : H.Goerig@gmx.de
+Description               : SP-type Coop map
+Filesize                     : ~2.5 MB              
+
+===============================================
+* Info *
+
+Single Player             : yeah (Nightmare-SP)
+Cooperative               : jupp (Nightmare-Coop or Nightmare-SP)
+Difficulty Settings       : Nightmare-SP:         1
+                                       Nightmare-Coop:     2
+New Sounds                : no
+New Graphics              : yes
+New Sky                       : no
+
+===============================================
+* Construction *
+ 
+Base                            : Scratch
+Editor                           : Worldcraft 2.1
+Known Bugs                : None
+Build Time                   : very long
+Build Machine             : P-2 350, 96 MB RAM
+Compile Time              : nms/c1: QCSG  :~40 seconds    nmc/s2: QCSG  :~30 seconds
+                                                      QBSP2 :~20 seconds                  QBSP2 :~20 seconds
+                                                           VIS   :~800 seconds                    VIS    :~700 seconds
+                                                       QRAD  :~400 seconds                 QRAD  :~300 seconds
+R_speeds                  : sometimes quite high (Recommended:P-2 350 or higher + 3d acceleration)
+
+===============================================
+* Copyright / Permissions *
+
+Don`t use this level as a base

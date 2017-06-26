@@ -1,0 +1,54 @@
+JailBreak
+
+=========================================================
+Title			: JailBreak
+Filename		: jailbreak.bsp
+Game			: Sven Co-op Half-Life
+Author			: DeathBog
+Email Address		: deathbawg@hotmail.com
+Web Address		: not available
+special thanks to	: Valve - For making an incredible game
+                          SvenCoop-Team - For making a great mod
+                          Frontline Force team for their plant models
+                          
+                             
+=========================================================
+* Info *
+
+Single Player		: yes
+Cooperative		: yes best with 3-10 players
+New Sounds		: no
+New Graphics		: yes
+New Sky			: no
+
+=========================================================
+
+* Construction *
+
+The Map			: Invasion
+Editor(s)		: Worldcraft 3.3
+Known Bugs		: 
+                           
+                           
+Compile Time(Approximate):
+   
+Compile Machine		: Cyrix 333 MHz  96 RAM
+
+R_speeds                : Map r_speed is relatively good. 
+       		  
+=========================================================
+
+*installation*
+
+unzip jailbreak.zip to your half-life directory (usually sierra/half-life/)
+
+=========================================================
+=========================================================
+*description*
+You are imprisoned in a high security detentional military facility. As the game begins the complex is under attack by hostile alien forces. T The armed security guards and aliens all want you dead, so you must escape the facility before you are annihilated. This map is to invasion as Opposing Force is to Half-Life. It is a different perspective on the events occuring at the same time. This map is also one of the first map utilizing random elements, so beware!
+
+=========================================================
+=========================================================
+Hints:
+Do not die.
+Do not french kiss an electrical outlet.

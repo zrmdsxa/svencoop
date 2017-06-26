@@ -1,0 +1,127 @@
+Turn Word Wrap off to read this!
+This is the NEW version in case you downloaded the wrong one.
+
+================================================================
+
+Title                   : Grunts
+Filename                : Grunts.BSP
+Authors                 : Deathdog, MaD jOn
+Address           	: Deathdog@thedoghousemail.com  
+			  Starr@thedoghousemail.com
+Description             : A high security military base.
+			  Get to the High Security Area!
+Special Thanks to	: Rize for all the cargo crates.
+Webpage                 : Go to www.Mapfinger.com and look through
+			  the list for my name!
+Other Work		: Storage, StorageD
+			  Upcoming: Helebat towers (Nearly finished)
+			  	    Torture (Now run by Lord Slayer)
+				    Garg Epsiode (Look for the beta)
+
+Note: The storage WAD is included. This is used for the crates.
+================================================================
+
+Story
+Well you made it. Your jeeps park in the cover of some crates and you
+jump out. This road leads to the High Security Storage area but the
+military already knows you are coming. They have had time to dig in.
+Blocks of cargo containers have been set up as road blocks and gun
+turrets have been set. Your scouts have managed to set up some sandbags
+and a turret before they were sneaked up on by a patrol. Now you need
+to fight your way to the elevator to the High Security Storage Area.
+Look out for your captured scouts and take them with you down the
+lift with you.
+================================================================
+
+Play Information
+
+Single Player           : Put the Skill down and you MIGHT make it.
+Deathmatch              : No!
+Cooperative             : Long live Coop!
+Difficulty Settings     : Medium.
+New Sounds              : No
+New Graphics            : Yep. These are some OP4 ones.
+New Music               : No
+Demos Replaced          : None
+No. of players		: From 2-5. This is due to R_Speeds.
+Monsters		: Yes.
+Goal			: Reach the lift by killing or destroying
+			  something to open the doors.
+================================================================
+
+To change difficulty
+If you want to change the difficulty then edit the CFG file.
+Where it says:   Skill2
+Change the number to get the right difficulty. 
+(1=Easy, 2=Medium, 3=Hard)
+Don't mess with other settings because it will spoil the gameplay.
+================================================================
+
+Construction
+
+Base                    : New level from imagination!
+			  The Marines level gave me the idea and I
+			  more or less made an objective based map
+			  along the lines of Marines.
+Editor used             : Worldcraft v2.0
+Known Bugs              : 1 misaligned texture in elevator.
+			  Elevator leaves it's left support behind. WTF?!
+			  You can aim APC's rockets with secondary
+			  fire on RPG. :D
+Build Time              : 1 week.
+Compile Time		: 3 hours.
+================================================================
+
+Installation
+
+To play this level, extract the file "storage.bsp" into
+your sierra\half-life\SvenCoop directory.
+Put CFG in sierra\half-life\SvenCoop.
+Place the WAD in sierra\half-life\SvenCoop directory NOT VALVE!!
+Then run a multiplayer game.
+
+================================================================
+
+Gameplay Info
+This map is an eleongated version of Marines (Comrade Zhukoyev).
+I made it 'objective' based. To move onto the next area you have
+to destroy or kill something. I have taken the same corridor shape
+but have bent it into roughly this shape:
+			    IIIII
+			    I   I
+			    I   II
+			         I
+Check the level for a better idea. The main reason for this is that
+it cuts down R_Speeds and that I can make a map about 3 times bigger
+than Marines. There are not too many similarities with Marines.
+You don't need to get Barney and the Sci onto the lift or even rescue
+them but it is there if you like keeping them alive.
+================================================================
+
+R_Speeds
+The R_Speeds on this map hang at around 300 polygons but the number
+of grunts has meant I have had to limit the number of players to 6.
+As most servers have a limit of 6 players this shouldn't be a problem.
+Things can get hairy around the fence and the tunnel.
+================================================================
+
+Copyright and Permissions
+
+Comments on this map? Mail me. But no junk please.
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name GRUNTS.BSP and is supplied in a zip file called GRUNTS.ZIP 
+and that the files are not altered in any for.
+It must also contain this text document and no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium. 
+(But if you ask first it might be considered on a magazine)
+
+(c) Copyright 2000 Dave Starr
