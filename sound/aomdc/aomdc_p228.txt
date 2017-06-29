@@ -1,0 +1,3 @@
+"weapons/pl_gun1.wav" "aomdc/weapons/p228/p228_fire.wav"
+"weapons/pl_gun2.wav" "aomdc/weapons/p228/p228_fire.wav"
+"weapons/pl_gun3.wav" "aomdc/weapons/p228/p228_fire.wav"
