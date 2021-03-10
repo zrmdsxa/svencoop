@@ -1,0 +1,18 @@
+============================================================================================
+MAP: Catalyst (SVEN Co-op)
+AUTHOR: Derek St. Amand (HeAdCrAb KILLA) - headcrab_killa@hotmail.com
+============================================================================================
+
+CATALYST - You have been sent to a secret laboratory in a remote, classified location. The team of scientists and government officials at this lab have developed a cascade array for easy transport to the alien world Xen. Your mission is to travel to a defense outpost in the homeworld of the hostile aliens to stop the invasion. This outpost on Xen was formally inhabited by another science team. Unfortunately, this team has been lost due to a "crabby" situation. You must destroy a main power source at the outpost to eliminate the alien threat in the area. Once this source is destroyed, your mission will be a success. GOOD LUCK!
+
+============================================================================================
+
+ADDITIONAL MAP INFORMATION - 
+
+NAME: sc_catalyst
+SIZE: Medium
+DIFFICULTY: Medium
+IDEAL PLAYERS: 1-6
+EDITOR USED: Hammer 3.4
+TOTAL COMP. TIME: 15 Minutes
+(2005)
